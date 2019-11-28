@@ -1,4 +1,4 @@
-var button = require("button");
-var text = require("text");
+var button = require("@allisonhope10/button");
+var text = require("@allisonhope10/text");
 
 console.log(`${button} ${text}`);
