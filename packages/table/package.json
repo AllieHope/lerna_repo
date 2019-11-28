@@ -1,11 +1,11 @@
 {
   "name": "@allisonhope10/table",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@allisonhope10/button": "^1.0.0",
-    "@allisonhope10/text": "^1.0.0",
+    "@allisonhope10/button": "^1.0.1",
+    "@allisonhope10/text": "^1.0.1",
     "lodash": "^4.17.15"
   }
 }
