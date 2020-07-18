@@ -6,6 +6,6 @@
   "dependencies": {
     "@allisonhope10/button": "^1.0.2",
     "@allisonhope10/text": "^1.0.2",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   }
 }
